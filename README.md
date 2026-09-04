@@ -1,3 +1,4 @@
+[logo]!(https://github.com/Arcane-Hakeem/Arcane-Hakeem/blob/main/Github%20banner.png)
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hakeem+Shaik" alt="Hi, I'm Hakeem Shaik" />
