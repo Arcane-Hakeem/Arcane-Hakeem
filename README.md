@@ -6,12 +6,6 @@
   Aspiring Machine Learning & Software Engineer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/arcane-hakeem">
-    <img src="https://komarev.com/ghpvc/?username=arcane-hakeem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 <!-- TYPING ANIMATION -->
 
 <p align="center">
