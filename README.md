@@ -1,4 +1,25 @@
 <!-- TYPING ANIMATION -->
+<div align="center">
+
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Hakeem+Shaik" alt="Hakeem Shaik"/>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=900&color=666666&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer;Aspiring+Software+Engineer;Data+Analytics+%7C+Python+%7C+SQL;Building+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Professional Title"/>
+
+<br><br>
+
+<a href="https://github.com/arcane-hakeem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hakeem-shaik-708314363">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hakeemshaik006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hakeem+Shaik" alt="Hi, I'm Hakeem Shaik" />
 </h1>
@@ -94,15 +115,6 @@
   <a href="https://github.com/arcane-hakeem?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
   </a>
-</p>
-
----
-
-
-  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcane-hakeem&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
