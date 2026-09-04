@@ -1,4 +1,3 @@
-````html
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Hakeem Shaik</h1>
